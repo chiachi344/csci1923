@@ -1,0 +1,32 @@
+{
+    "Saber": {
+        "HP": 130,
+        "ATK": 15,
+        "SPEED": 1,
+        "LUK": 30
+    },
+    "Archer": {
+        "HP": 90,
+        "ATK": 10,
+        "SPEED": 2,
+        "LUK": 20
+    },
+    "Lancer": {
+        "HP": 95,
+        "ATK": 12,
+        "SPEED": 2,
+        "LUK": 0
+    },
+    "Caster": {
+        "HP": 70,
+        "ATK": 30,
+        "SPEED": 1,
+        "LUK": 35
+    },
+    "Assassin": {
+        "HP": 100,
+        "ATK": 20,
+        "SPEED": 1,
+        "LUK": 60
+    }
+}
