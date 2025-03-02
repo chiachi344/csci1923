@@ -8,10 +8,10 @@ This is a text-based adventure game where the player explores various rooms, enc
 
 ## How to Play
 
-You usually only need the numbers 1 to 5 on your keyboard to control your character.
-Once you start the game, you can exit anytime by entering "exit".
-The game will automatically save your current room and character status.
-Alternatively, you can enter "reset" to restart the entire game.
+- You usually only need the numbers 1 to 5 on your keyboard to control your character.
+- Once you start the game, you can exit anytime by entering "exit".
+- The game will automatically save your current room and character status.
+- Alternatively, you can enter "reset" to restart the entire game.
 
 __Project Structure__
 
