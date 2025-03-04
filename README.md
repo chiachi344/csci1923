@@ -24,8 +24,8 @@ __Project Structure__
 │── classes_d.json  # Stores data for selectable classes
 │── enemies_d.json  # Stores data for enemies
 │── rooms_data.json # Stores data for rooms
-│── play_d.json     # Stores the player's current progress
-│── user_data.json  # Stores saved progress and rest count
+│── play_d.json     # Stores the player's current class data
+│── user_data.json  # Stores saved current room and rest count
 │── README.md       # Game instructions
 ```
 
